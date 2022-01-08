@@ -1,2 +1,2 @@
 # Photo-Gallery-Web
-A freecodecamp Course Proj
+ freecodecamp Course Proj
